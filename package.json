@@ -1,7 +1,6 @@
 {
   "name": "hubot-actionable",
   "version": "0.1.0",
-  "private": true,
   "author": "Lucas Chi <lucas@teacherspayteachers.com>",
   "description": "Marks Pagerduty incidents as (not) actionable",
   "dependencies": {
